@@ -89,25 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9bf90c50bd77038",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
-            }
-          },
-          {
             "id": "afb49cdc0a828654",
             "type": "leaf",
             "state": {
@@ -142,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "第一篇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "第一篇 的大纲"
             }
           },
           {
@@ -162,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
