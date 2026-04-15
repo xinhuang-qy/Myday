@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作的出现的问题以及后续解决办法.md",
+                "file": "自己的游戏项目/想法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工作的出现的问题以及后续解决办法"
+              "title": "想法"
             }
           }
         ],
@@ -208,11 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32b3e3d3f5283114",
+  "active": "925e2a71406277ae",
   "lastOpenFiles": [
-    "未命名",
-    "今年的目标.md",
     "工作的出现的问题以及后续解决办法.md",
+    "自己的游戏项目/想法.md",
+    "自己的游戏项目",
+    "今年的目标.md",
     "最近烦恼的事.md",
     "_modoule/疑惑模板.md",
     "第一篇.md",
