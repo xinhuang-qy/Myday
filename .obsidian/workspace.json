@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自己的游戏项目/想法.md",
+                "file": "自己的游戏项目/游戏的基本思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "想法"
+              "title": "游戏的基本思路"
             }
           }
         ],
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +210,10 @@
   },
   "active": "925e2a71406277ae",
   "lastOpenFiles": [
+    "自己的游戏项目/想法.md",
+    "自己的游戏项目/游戏的基本思路.md",
     "自己的游戏项目/美术/AI制作角色.md",
     "自己的游戏项目/美术",
-    "自己的游戏项目/想法.md",
     "工作的出现的问题以及后续解决办法.md",
     "自己的游戏项目",
     "今年的目标.md",
