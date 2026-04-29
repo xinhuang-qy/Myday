@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "git的使用"
             }
+          },
+          {
+            "id": "20a6ef0f52ffe189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mind Dive/策划/病人档案设计/患者病历档案：0001 号.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "患者病历档案：0001 号"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +250,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1920ca1fdcd914d1",
+  "active": "20a6ef0f52ffe189",
   "lastOpenFiles": [
+    "Mind Dive/未命名.md",
+    "Mind Dive/策划/病人档案设计/患者病历档案：0001 号.md",
+    "Mind Dive/策划/病人档案设计",
+    "Mind Dive/策划/障碍物设计表.md",
+    "Mind Dive/策划",
+    "游戏策划书.md",
+    "游戏策划书模板要求.md",
+    "git的使用.md",
     "jimeng-2026-04-26-7601-小尺寸、可爱的Q版医生游戏精灵，2.5头身，侧面视角，简洁干净的外轮廓。 极简白....png",
     "README.md",
-    "git的使用.md",
     "最近烦恼的事.md",
     "Mind Dive/Godot 项目设置成竖屏手机窗口样式.md",
     "未命名 1.md",
