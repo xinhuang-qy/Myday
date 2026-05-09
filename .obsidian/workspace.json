@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Nakama + Go 游戏后端学习计划（12周）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Nakama + Go 游戏后端学习计划（12周）"
             }
           }
         ],
@@ -237,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,7 +253,7 @@
   "active": "20a6ef0f52ffe189",
   "lastOpenFiles": [
     "炸弹人/初步想法.md",
-    "未命名.md",
+    "Nakama + Go 游戏后端学习计划（12周）.md",
     "炸弹人/优化方案.md",
     "2026-4-9.md",
     "炸弹人",
