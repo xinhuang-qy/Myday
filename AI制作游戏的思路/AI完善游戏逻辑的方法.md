@@ -15,3 +15,14 @@ flowchart TD
     Godot测试 --> 新截图
 ```
 
+目前游戏逻辑功能实现的流程是
+```mermaid
+flowchart TD
+A[Antigravity生成代码] --> B[手动测试]
+B --> C[问题提取]
+C --> D[GPT分析问题]
+D --> E[生成修复Prompt]
+E --> F[Antigravity修复]
+F --> B
+```
+antigravity自动实现代码->测试一遍，找出问题，提出需求->实现功能的关键代码+需求提交给gpt->gpt给出prompt->antigravity重新修改代码
